@@ -1,0 +1,1 @@
+Southern kingdom after Israel was broken into two. Originally known as Judah.

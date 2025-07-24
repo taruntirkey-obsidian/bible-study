@@ -1,0 +1,1 @@
+Modern Palestine. It was divided into several regions including [[Judea]], [[Galilee]] and [[Samaria]].

@@ -1,0 +1,1 @@
+A small town of [[Galilee]], about 5 miles north-east of [[Nazareth]].
