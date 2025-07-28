@@ -1,0 +1,1 @@
+A bustling city, center of Jewish religious and cultural life. Also, the political center for the region.
