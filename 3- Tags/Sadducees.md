@@ -1,0 +1,4 @@
+- They were primarily composed of wealthy and priestly families and were closely associated with the Temple in Jerusalem.
+- They focused on the Temple worship and sacrifices as the path to holiness.
+- Unlike the Pharisees, they did not believe in the resurrection of the dead, angels, or spirits.
+- They were more politically involved and collaborated with the Roman authorities.

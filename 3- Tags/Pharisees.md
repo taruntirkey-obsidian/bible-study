@@ -1,0 +1,3 @@
+- They were known for their strict adherence to both the written Law of Moses and oral traditions, emphasizing personal piety and purity. 
+- They believed in the resurrection of the dead and the existence of angels and spirits. 
+- Pharisees were generally more popular with the common people and were seen as experts in religious law. 

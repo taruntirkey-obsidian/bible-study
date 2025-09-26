@@ -3,7 +3,7 @@
 # John Chapter 2
 
 ### In the Scene
-[[Jesus]], [[Mary]]
+[[Jesus]], [[Mother Mary]]
 ___
 ### Locations
 [[Cana]], [[Jerusalem]]

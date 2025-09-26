@@ -1,5 +1,17 @@
+---
+Created On: 
+Updated On: 
+Author: Tarun Tirkey
+tags:
+  - Rough
+  - Pending
+  - InProgress
+  - NotStarted
+Type: Gospel
+Book: John
+Chapter:
+---
 {{date}} {{time}}
-
 # {{Title}}
 
 ### In the Scene

@@ -1,0 +1,5 @@
+[Catholic Answers](https://www.catholic.com/)
+[New Advent](https://www.newadvent.org/)
+[Christian Classics Ethereal Library](https://ccel.org/)
+[Sefaria](https://www.sefaria.org/)
+[Jewish Encyclopedia](https://www.jewishencyclopedia.com/)

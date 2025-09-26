@@ -1,0 +1,3 @@
+- Originally, scribes were individuals who copied and interpreted texts, but over time they became recognized as legal and religious experts.
+- They were often consulted for legal and religious matters and were knowledgeable in the Law.
+- Scribes could be associated with either the Pharisees or the Sadducees, or they could be independent experts.
