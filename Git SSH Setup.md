@@ -24,7 +24,7 @@ cd C:\Users\{USER}\.ssh>
 
 _Example:_
 ```
-ssh-keygen -t ed -C "tarun@dev.com" -f hp_compaq_netflix_ssh
+ssh-keygen -t ed25519 -C "tarun@dev.com" -f hp_compaq_netflix_ssh
 ```
 
 **Add Key to SSH Agent**
